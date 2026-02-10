@@ -1,0 +1,12 @@
+[
+  {"id": 1, "question": "What is the capital of France?", "context": "France's capital city is Paris.", "reference": "Paris"},
+  {"id": 2, "question": "Who wrote Hamlet?", "context": "Hamlet is a play written by William Shakespeare.", "reference": "William Shakespeare"},
+  {"id": 3, "question": "What is 2 + 2?", "context": "Basic arithmetic: 2 + 2 equals 4.", "reference": "4"},
+  {"id": 4, "question": "What planet do humans live on?", "context": "Humans live on Earth.", "reference": "Earth"},
+  {"id": 5, "question": "What color is the sky on a clear day?", "context": "The sky appears blue on a clear day.", "reference": "Blue"},
+  {"id": 6, "question": "What gas do humans breathe?", "context": "Humans breathe oxygen.", "reference": "Oxygen"},
+  {"id": 7, "question": "How many days are in a week?", "context": "There are 7 days in a week.", "reference": "7"},
+  {"id": 8, "question": "What is the freezing point of water?", "context": "Water freezes at 0 degrees Celsius.", "reference": "0°C"},
+  {"id": 9, "question": "What animal barks?", "context": "Dogs bark.", "reference": "Dog"},
+  {"id": 10, "question": "What do bees make?", "context": "Bees produce honey.", "reference": "Honey"}
+]
