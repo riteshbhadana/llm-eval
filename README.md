@@ -39,7 +39,7 @@ It simulates how companies test and monitor AI systems in production.
 * Automated scoring pipelines
 * Benchmark dataset integration
 * Monitoring dashboards
-* Production-style ML workflow
+* Production-style ML workflows
 
 This is infrastructure for AI quality — not just a demo model.
 
